@@ -1,2 +1,3 @@
 # textified_nums
-A python liblary for converting between numbers and texts in English and Turkish
+A python liblary for converting between numbers and texts in English and Turkish...
+It's on early development stage
